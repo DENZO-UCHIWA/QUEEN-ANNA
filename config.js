@@ -25,8 +25,8 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //----------------------------------------------------------------------------
 
-global.mods = ['24105114159'] 
-global.prems = ['24105114159']
+global.mods = ['24206529229'] 
+global.prems = ['24206529229']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -60,15 +60,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙽𝙰 𝙼𝙳'
+global.botname = 'THUCK-MD'
 global.premium = 'true'
-global.packname = '𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸' 
-global.author = '𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙽𝙰 𝙼𝙳' 
+global.packname = 'MM' 
+global.author = 'THUCK-MD' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/lawliet.kfx\n' 
-global.dygp = 'https://chat.whatsapp.com/GpsTju4MUAbJmmZhHU8zAR'
-global.fgsc = 'https://github.com/toge012345/QUEEN-ANNA' 
-global.fgyt = 'https://youtube.com/@kenzo3146'
-global.fgpyp = 'https://youtube.com/@kenzo3146'
+global.dygp = 'https://chat.whatsappm/GpsTju4MUAbJmmZhHU8zAR'
+global.fgsc = 'https://github.com/' 
+global.fgyt = 'https://youtube.com'
+global.fgpyp = 'https://youtube.com'
 global.fglog = 'ANNA.jpg' 
 
 //imagen
